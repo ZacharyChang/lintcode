@@ -5,6 +5,7 @@ Lintcode study
 |#|Title|Language|Difficulty|
 |-|-----|--------|----------|
 |9|[Fizz Buzz](http://www.lintcode.com/en/problem/fizz-buzz/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/9.fizz-buzz)|Easy|
+|28|[Search a 2D Matrix](http://www.lintcode.com/en/problem/search-a-2d-matrix/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/28.search-a-2d-matrix/solution.go) [Java](https://github.com/ZacharyChang/lintcode/tree/master/problem/28.search-a-2d-matrix/Solution.java)|Easy|Matrix, BinarySearch
 |35|[Reverse Linked List](http://www.lintcode.com/en/problem/reverse-linked-list/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/35.reverse-linked-list)|Easy|
 |40|[Implement Queue by Two Stacks](https://www.lintcode.com/en/problem/implement-queue-by-two-stacks/)|[Java](https://github.com/ZacharyChang/lintcode/tree/master/problem/40.implement-queue-by-two-stacks)|Medium|
 |111|[Climbing Stairs](http://www.lintcode.com/en/problem/climbing-stairs/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/111.climbing-stairs)|Easy|
