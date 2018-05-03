@@ -18,3 +18,4 @@ Lintcode study
 |212|[Space Replacement](http://www.lintcode.com/en/problem/space-replacement/)|[Java](https://github.com/ZacharyChang/lintcode/tree/master/problem/212.space-replacement)|Easy|
 |365|[Count 1 in Binary](http://www.lintcode.com/en/problem/count-1-in-binary/)|[Java](https://github.com/ZacharyChang/lintcode/tree/master/problem/365.count-one-in-binary)|Easy|
 |366|[Fibonacci](http://www.lintcode.com/en/problem/fibonacci/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/366.fibonacci)|Naive|
+|366|[Two Pointers](http://www.lintcode.com/en/problem/partition-array-by-odd-and-even/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/373.partition-array-by-odd-and-even/solution.go) [Java](https://github.com/ZacharyChang/lintcode/tree/master/problem/373.partition-array-by-odd-and-even/Solution.java)|Easy|TowPointers, Array|
