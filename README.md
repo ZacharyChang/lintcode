@@ -14,6 +14,7 @@ Lintcode study
 |111|[Climbing Stairs](http://www.lintcode.com/en/problem/climbing-stairs/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/111.climbing-stairs)|Easy|
 |159|[Find Minimum in Rotated Sorted Array](https://www.lintcode.com/en/problem/find-minimum-in-rotated-sorted-array/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/159.find-minimum-in-rotated-sorted-array)|Medium|
 |160|[Find Minimum in Rotated Sorted Array II](https://www.lintcode.com/en/problem/find-minimum-in-rotated-sorted-array-ii/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/160.find-minimum-in-rotated-sorted-array-ii)|Medium|DivideAndConquer|
+|174|[Remove Nth Node From End of List](https://www.lintcode.com/en/problem/remove-nth-node-from-end-of-list/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/174.remove-nth-node-from-end-of-list)|Easy|TwoPointers, LinkedList|
 |204|[Singleton](http://www.lintcode.com/en/problem/singleton/)|[Java](https://github.com/ZacharyChang/lintcode/tree/master/problem/204.singleton)|Easy|
 |212|[Space Replacement](http://www.lintcode.com/en/problem/space-replacement/)|[Java](https://github.com/ZacharyChang/lintcode/tree/master/problem/212.space-replacement)|Easy|
 |245|[Subtree](http://www.lintcode.com/en/problem/subtree/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/245.subtree)|Easy|Recursion, BinaryTree
