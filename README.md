@@ -21,5 +21,6 @@ Lintcode study
 |245|[Subtree](http://www.lintcode.com/en/problem/subtree/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/245.subtree)|Easy|Recursion, BinaryTree
 |365|[Count 1 in Binary](http://www.lintcode.com/en/problem/count-1-in-binary/)|[Java](https://github.com/ZacharyChang/lintcode/tree/master/problem/365.count-one-in-binary)|Easy|
 |366|[Fibonacci](http://www.lintcode.com/en/problem/fibonacci/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/366.fibonacci)|Naive|
+|366|[Print Numbers by Recursion](http://www.lintcode.com/en/problem/print-numbers-by-recursion/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/371.print-numbers-by-recursion)|Medium|
 |372|[Delete Node in a Linked List](http://www.lintcode.com/en/problem/delete-node-in-a-linked-list/)|[Java](https://github.com/ZacharyChang/lintcode/tree/master/problem/372.delete-node-in-a-linked-list/Solution.java)|Easy|LinkedList, Cracking The Coding Interview|
 |373|[Two Pointers](http://www.lintcode.com/en/problem/partition-array-by-odd-and-even/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/373.partition-array-by-odd-and-even/solution.go) [Java](https://github.com/ZacharyChang/lintcode/tree/master/problem/373.partition-array-by-odd-and-even/Solution.java)|Easy|TowPointers, Array|
