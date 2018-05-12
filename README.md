@@ -24,6 +24,7 @@ Lintcode study
 |165|[Merge Two Sorted Lists](https://www.lintcode.com/en/problem/merge-two-sorted-lists/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/165.merge-two-sorted-lists)|Easy|LinkedList|
 |174|[Remove Nth Node From End of List](https://www.lintcode.com/en/problem/remove-nth-node-from-end-of-list/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/174.remove-nth-node-from-end-of-list)|Easy|TwoPointers, LinkedList|
 |204|[Singleton](http://www.lintcode.com/en/problem/singleton/)|[Java](https://github.com/ZacharyChang/lintcode/tree/master/problem/204.singleton)|Easy|
+|209|[First Unique Character in a String](http://www.lintcode.com/en/problem/first-unique-character-in-a-string/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/209.first-unique-character-in-a-string)|Easy|String|
 |211|[String Permutation](http://www.lintcode.com/en/problem/string-permutation/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/211.string-permutation)|Easy|
 |212|[Space Replacement](http://www.lintcode.com/en/problem/space-replacement/)|[Java](https://github.com/ZacharyChang/lintcode/tree/master/problem/212.space-replacement)|Easy|
 |245|[Subtree](http://www.lintcode.com/en/problem/subtree/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/245.subtree)|Easy|Recursion, BinaryTree
