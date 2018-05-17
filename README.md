@@ -5,6 +5,7 @@ Lintcode study
 |#|Title|Language|Difficulty|Tags|
 |-|-----|--------|----------|----|
 |3|[Digit Counts](http://www.lintcode.com/en/problem/digit-counts/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/003.digit-counts)|Medium|
+|4|[Ugly Number II](http://www.lintcode.com/en/problem/ugly-number-ii/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/004.ugly-number-ii)|Medium|
 |5|[Kth Largest Element](http://www.lintcode.com/en/problem/kth-largest-element/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/005.kth-largest-element)|Medium|
 |9|[Fizz Buzz](http://www.lintcode.com/en/problem/fizz-buzz/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/009.fizz-buzz)|Easy|
 |12|[Min Stack](http://www.lintcode.com/en/problem/min-stack/)|[Java](https://github.com/ZacharyChang/lintcode/tree/master/problem/012.min-stack)|Medium|Stack
