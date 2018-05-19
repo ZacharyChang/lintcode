@@ -4,6 +4,8 @@ Lintcode study
 ## Problem
 |#|Title|Language|Difficulty|Tags|
 |-|-----|--------|----------|----|
+|3|[Digit Counts](http://www.lintcode.com/en/problem/digit-counts/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/003.digit-counts)|Medium|
+|4|[Ugly Number II](http://www.lintcode.com/en/problem/ugly-number-ii/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/004.ugly-number-ii)|Medium|
 |5|[Kth Largest Element](http://www.lintcode.com/en/problem/kth-largest-element/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/005.kth-largest-element)|Medium|
 |9|[Fizz Buzz](http://www.lintcode.com/en/problem/fizz-buzz/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/009.fizz-buzz)|Easy|
 |12|[Min Stack](http://www.lintcode.com/en/problem/min-stack/)|[Java](https://github.com/ZacharyChang/lintcode/tree/master/problem/012.min-stack)|Medium|Stack
@@ -11,6 +13,7 @@ Lintcode study
 |35|[Reverse Linked List](http://www.lintcode.com/en/problem/reverse-linked-list/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/035.reverse-linked-list)|Easy|
 |38|[Search a 2D Matrix II](https://www.lintcode.com/en/problem/search-a-2d-matrix-ii/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/038.search-a-2d-matrix-ii/solution.go) [Java](https://github.com/ZacharyChang/lintcode/tree/master/problem/038.search-a-2d-matrix-ii/Solution.java)|Medium|Matrix, SortedMatrix|
 |40|[Implement Queue by Two Stacks](https://www.lintcode.com/en/problem/implement-queue-by-two-stacks/)|[Java](https://github.com/ZacharyChang/lintcode/tree/master/problem/040.implement-queue-by-two-stacks)|Medium|
+|41|[Maximum Subarray](http://www.lintcode.com/en/problem/maximum-subarray/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/041.maximum-subarray)|Easy|Greedy, Subarray, Enumeration|
 |46|[Majority Element](https://www.lintcode.com/en/problem/majority-element/)|[Java](https://github.com/ZacharyChang/lintcode/tree/master/problem/046.majority-element)|Easy|Greedy, Enumeration|
 |48|[Majority Number III](https://www.lintcode.com/en/problem/majority-number-iii/)|[Java](https://github.com/ZacharyChang/lintcode/tree/master/problem/048.majority-number-iii)|Medium|Linked List, Hash Table|
 |66|[Binary Tree Preorder Traversal](https://www.lintcode.com/en/problem/binary-tree-preorder-traversal/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/066.binary-tree-preorder-traversal)|Easy|BinaryTreeTraversal, Recursion|
