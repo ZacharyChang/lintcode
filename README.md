@@ -47,3 +47,4 @@ Lintcode study
 |378|[Convert Binary Search Tree to Doubly Linked List](http://www.lintcode.com/en/problem/convert-binary-search-tree-to-doubly-linked-list/)|[Java](https://github.com/ZacharyChang/lintcode/tree/master/problem/378.convert-binary-search-tree-to-doubly-linked-list)|Medium|LinkedList|
 |380|[Intersection of Two Linked Lists](http://www.lintcode.com/en/problem/intersection-of-two-linked-lists/)|[Java](https://github.com/ZacharyChang/lintcode/tree/master/problem/380.intersection-of-two-linked-lists)|Medium|LinkedList|
 |381|[Spiral Matrix II](http://www.lintcode.com/en/problem/spiral-matrix-ii/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/381.spiral-matrix-ii)|Medium|Array|
+|532|[Reverse Pairs](http://www.lintcode.com/en/problem/reverse-pairs/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/532.reverse-pairs)|Medium|MergeSort, Array|
