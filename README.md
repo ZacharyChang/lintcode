@@ -8,6 +8,7 @@ Lintcode study
 |4|[Ugly Number II](http://www.lintcode.com/en/problem/ugly-number-ii/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/004.ugly-number-ii)|Medium|
 |5|[Kth Largest Element](http://www.lintcode.com/en/problem/kth-largest-element/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/005.kth-largest-element)|Medium|
 |9|[Fizz Buzz](http://www.lintcode.com/en/problem/fizz-buzz/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/009.fizz-buzz)|Easy|
+|11|[Search Range in Binary Search Tree](http://www.lintcode.com/en/problem/search-range-in-binary-search-tree/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/011.search-range-in-binary-search-tree)|Medium|Binary Tree, BST
 |12|[Min Stack](http://www.lintcode.com/en/problem/min-stack/)|[Java](https://github.com/ZacharyChang/lintcode/tree/master/problem/012.min-stack)|Medium|Stack
 |14|[First Position of Target](http://www.lintcode.com/en/problem/first-position-of-target/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/014.first-position-of-target)|Easy|BinarySearch, Array
 |28|[Search a 2D Matrix](http://www.lintcode.com/en/problem/search-a-2d-matrix/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/028.search-a-2d-matrix/solution.go) [Java](https://github.com/ZacharyChang/lintcode/tree/master/problem/028.search-a-2d-matrix/Solution.java)|Easy|Matrix, BinarySearch
