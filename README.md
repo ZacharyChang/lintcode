@@ -7,6 +7,7 @@ Lintcode study
 |3|[Digit Counts](http://www.lintcode.com/en/problem/digit-counts/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/003.digit-counts)|Medium|
 |4|[Ugly Number II](http://www.lintcode.com/en/problem/ugly-number-ii/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/004.ugly-number-ii)|Medium|
 |5|[Kth Largest Element](http://www.lintcode.com/en/problem/kth-largest-element/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/005.kth-largest-element)|Medium|
+|6|[Merge Two Sorted Arrays](http://www.lintcode.com/en/problem/merge-two-sorted-arrays/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/006.merge-two-sorted-arrays)|Medium|SortedArray, Array|
 |9|[Fizz Buzz](http://www.lintcode.com/en/problem/fizz-buzz/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/009.fizz-buzz)|Easy|
 |11|[Search Range in Binary Search Tree](http://www.lintcode.com/en/problem/search-range-in-binary-search-tree/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/011.search-range-in-binary-search-tree)|Medium|Binary Tree, BST
 |12|[Min Stack](http://www.lintcode.com/en/problem/min-stack/)|[Java](https://github.com/ZacharyChang/lintcode/tree/master/problem/012.min-stack)|Medium|Stack
