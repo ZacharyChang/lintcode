@@ -4,6 +4,7 @@ Lintcode study
 ## Problem
 |#|Title|Language|Difficulty|Tags|
 |-|-----|--------|----------|----|
+|2|[Trailing Zeros](http://www.lintcode.com/en/problem/trailing-zeros/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/002.trailing-zeros)|Easy|Mathematics|
 |3|[Digit Counts](http://www.lintcode.com/en/problem/digit-counts/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/003.digit-counts)|Medium|
 |4|[Ugly Number II](http://www.lintcode.com/en/problem/ugly-number-ii/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/004.ugly-number-ii)|Medium|
 |5|[Kth Largest Element](http://www.lintcode.com/en/problem/kth-largest-element/)|[Golang](https://github.com/ZacharyChang/lintcode/tree/master/problem/005.kth-largest-element)|Medium|
